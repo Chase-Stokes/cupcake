@@ -7,9 +7,17 @@ h2 {
 }
 
 li {
-  font-style: italic
+  text-align: center
 }
 
 p{
   text-align: center
+}
+
+li.flashy {
+  font-style: italic
+}
+
+li.best {
+  font-style: bold
 }
